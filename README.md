@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sean3216
 - 👀 I’m a huge data enthusiast, especially tabular data.
-- 🌱 I’m currently learning to be a good data scientist.
-- 💞️ I’m looking to collaborate on any projects regarding data science. Hit me up!
+- 🌱 Currently studying and growing at Hankuk University of Foreign Studies (한국외국어대학교)
+- 💞️ I'm focusing on Federated Learning and Continual Learning. Hit me up if there's any interest in collaborating!
 - 📫 reach me through my email! (sea.remus@gmail.com)
 
 <!---
