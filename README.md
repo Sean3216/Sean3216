@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sean3216
-- 👀 I’m a huge data enthusiast, especially tabular data.
-- 🌱 Currently building a career as an AI Engineer and Data Scientist
-- 💞️ I'm focusing on Federated Learning and Continual Learning. Hit me up if there's any interest in collaborating!
+- 👀 I’m a Data Scientist and AI Engineer
+- 🌱 I keep up with the latest trend and new findings in the AI field
+- 💞️ I'm open to any kinds of collaboration that requires AI!
 - 📫 reach me through my email! (sea.remus@gmail.com)
 
 <!---
